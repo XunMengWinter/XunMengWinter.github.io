@@ -9,10 +9,10 @@
 title: Winter is coming
 email: XunMengWinter@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Just remember in the winter
-Far beneath the bitter snow
-Lies the seed that with the sun's love
-In the spring becomes the rose
+  Just remember in the winter
+  Far beneath the bitter snow
+  Lies the seed that with the sun's love
+  In the spring becomes the rose
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wefor.top" # the base hostname & protocol for your site
